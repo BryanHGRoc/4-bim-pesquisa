@@ -1,0 +1,18 @@
+/* modificação do body */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+/* decoração da borda */
+#border {
+    width: 80%;
+    height: 80%;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
