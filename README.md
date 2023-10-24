@@ -25,6 +25,9 @@ O **Clipping Path** é um caminho de corte podendo esconder ou mostrar partes es
 - Um botão que chama a função JavaScript “transformElement()” quando clicado
 - Um link para um arquivo de script JavaScript
 
+![d4be18f8-931d-4f10-95c3-9ef64133f55c](https://github.com/BryanHGRoc/4-bim-pesquisa/assets/127855127/962acc9a-34c5-4282-a950-282ccc697e86)
+
+
 ## CSS
 
 - Este código CSS modifica o elemento body para:
@@ -38,6 +41,9 @@ O **Clipping Path** é um caminho de corte podendo esconder ou mostrar partes es
   - Ter uma borda sólida preta
   - Ter uma exibição flexível com seus itens centralizados tanto horizontalmente quanto verticalmente
 
+![9fa97827-21b3-42e2-adac-9a175ad26cf9](https://github.com/BryanHGRoc/4-bim-pesquisa/assets/127855127/d6af8492-698a-4262-a09e-fd93c659fc49)
+
+
 ## JavaScript
 
 - Este código JavaScript:
@@ -49,4 +55,9 @@ O **Clipping Path** é um caminho de corte podendo esconder ou mostrar partes es
   - Aplica transformações aleatórias de translação, rotação e escala ao novo elemento
   - Aplica um caminho de recorte aleatório
 
+![040cd7f0-b1c8-4145-b560-f8f6a8405a55](https://github.com/BryanHGRoc/4-bim-pesquisa/assets/127855127/0639767c-af2f-4eb3-998b-de72333db026)
+
+
 # Resultado
+
+![75c085cd-e68e-4b8e-9b00-0c2de58c60cb](https://github.com/BryanHGRoc/4-bim-pesquisa/assets/127855127/28fbc2ba-d41a-45f2-8d1f-a8e86be017c7)
