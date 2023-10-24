@@ -57,6 +57,9 @@ O **Clipping Path** é um caminho de corte podendo esconder ou mostrar partes es
 
 ![040cd7f0-b1c8-4145-b560-f8f6a8405a55](https://github.com/BryanHGRoc/4-bim-pesquisa/assets/127855127/0639767c-af2f-4eb3-998b-de72333db026)
 
+## Diorama
+
+![diagrama](https://github.com/BryanHGRoc/4-bim-pesquisa/assets/127855127/df73f830-9d5c-4eed-ae7a-bda4017fa4bf)
 
 # Resultado
 
