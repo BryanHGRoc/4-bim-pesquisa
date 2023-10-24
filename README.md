@@ -48,3 +48,5 @@ O **Clipping Path** é um caminho de corte podendo esconder ou mostrar partes es
 - Ele também define uma função chamada “transformElement” que, quando chamada:
   - Aplica transformações aleatórias de translação, rotação e escala ao novo elemento
   - Aplica um caminho de recorte aleatório
+
+# Resultado
