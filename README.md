@@ -25,6 +25,8 @@ O **Clipping Path** é um caminho de corte podendo esconder ou mostrar partes es
 - Um botão que chama a função JavaScript “transformElement()” quando clicado
 - Um link para um arquivo de script JavaScript
 
+<img src = "img/imagem.png"/>
+
 ## CSS
 
 - Este código CSS modifica o elemento body para:
